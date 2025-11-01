@@ -4,6 +4,9 @@ var i :=10
 //func ->to declare a function
 func
 
+//const->const values
+const
+
 //defer ->to delay the execution of a function until the surrounding function returns ,Deferred calls execute even if a panic occurs (unless the program crashes)
 package main
 
